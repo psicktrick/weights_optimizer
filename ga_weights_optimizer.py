@@ -12,9 +12,9 @@ import config
 
 class WeightsOptimizer:
 
-    def __init__(self, n, objective_function):
+    def __init__(self, n, model):
         self.n = n
-        self.objective_function = objective_function
+        self.model = model
         self.ngen = config.ga["number_of_generations"]
         self.population_size = config.ga["population_size"]
         self.cxpb = 0.8
@@ -91,7 +91,7 @@ class WeightsOptimizer:
         toolbox.register("init_attr", self.generate_weights)
         toolbox.register("x", tools.initIterate, creator.Individual, toolbox.init_attr)
         toolbox.register("population", tools.initRepeat, list, toolbox.x)
-        toolbox.register("evaluate", self.objective_function)  # opti_obj=opti_obj)
+        toolbox.register("evaluate", self.model.objective_function)  # opti_obj=opti_obj)
         toolbox.register("mate", tools.cxTwoPoint)
         toolbox.register("mutate", tools.mutShuffleIndexes, indpb=0.05)
         toolbox.register("select", tools.selTournament, tournsize=2)
