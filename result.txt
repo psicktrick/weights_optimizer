@@ -1,0 +1,1208 @@
+C:\Python37\python.exe C:/Tradepath/PycharmProjects_TP/weights_optimizer/test.py
+Simple Average Result : [0.25, 0.25, 0.25, 0.25] (-2.65,)
+
+Initial Population:
+[[0.1, 0.1, 0.75, 0.05],
+ [0.05, 0.55, 0.05, 0.35],
+ [0.2, 0.2, 0.15, 0.45],
+ [0.0, 0.55, 0.1, 0.35],
+ [0.4, 0.5, 0.0, 0.1],
+ [0.05, 0.1, 0.35, 0.5],
+ [0.25, 0.15, 0.35, 0.25],
+ [0.45, 0.5, 0.05, 0.0],
+ [0.5, 0.15, 0.05, 0.3],
+ [0.35, 0.45, 0.15, 0.05],
+ [0.35, 0.2, 0.05, 0.4],
+ [0.15, 0.45, 0.2, 0.2],
+ [0.2, 0.15, 0.35, 0.3],
+ [0.4, 0.1, 0.2, 0.3],
+ [0.5, 0.0, 0.35, 0.15],
+ [0.05, 0.05, 0.5, 0.4],
+ [0.2, 0.1, 0.35, 0.35],
+ [0.7, 0.15, 0.1, 0.05],
+ [0.3, 0.15, 0.1, 0.45],
+ [0.4, 0.45, 0.05, 0.1],
+ [0.05, 0.4, 0.3, 0.25],
+ [0.5, 0.1, 0.1, 0.3],
+ [0.35, 0.4, 0.05, 0.2],
+ [0.05, 0.15, 0.6, 0.2],
+ [0.1, 0.1, 0.25, 0.55],
+ [0.2, 0.05, 0.1, 0.65],
+ [0.4, 0.15, 0.15, 0.3],
+ [0.35, 0.05, 0.3, 0.3],
+ [0.4, 0.2, 0.05, 0.35],
+ [0.65, 0.2, 0.05, 0.1],
+ [0.45, 0.1, 0.3, 0.15],
+ [0.4, 0.1, 0.25, 0.25],
+ [0.2, 0.3, 0.35, 0.15],
+ [0.1, 0.1, 0.55, 0.25],
+ [0.25, 0.1, 0.25, 0.4],
+ [0.35, 0.1, 0.15, 0.4],
+ [0.05, 0.1, 0.7, 0.15],
+ [0.1, 0.05, 0.25, 0.6],
+ [0.0, 0.55, 0.25, 0.2],
+ [0.15, 0.3, 0.3, 0.25],
+ [0.35, 0.25, 0.35, 0.05],
+ [0.05, 0.0, 0.8, 0.15],
+ [0.05, 0.55, 0.3, 0.1],
+ [0.55, 0.15, 0.05, 0.25],
+ [0.35, 0.55, 0.05, 0.05],
+ [0.1, 0.25, 0.6, 0.05],
+ [0.35, 0.1, 0.1, 0.45],
+ [0.1, 0.05, 0.6, 0.25],
+ [0.05, 0.2, 0.35, 0.4],
+ [0.05, 0.35, 0.3, 0.3],
+ [0.35, 0.35, 0.05, 0.25],
+ [0.1, 0.65, 0.0, 0.25],
+ [0.1, 0.55, 0.05, 0.3],
+ [0.05, 0.4, 0.45, 0.1],
+ [0.1, 0.2, 0.25, 0.45],
+ [0.1, 0.05, 0.65, 0.2],
+ [0.45, 0.05, 0.4, 0.1],
+ [0.05, 0.55, 0.05, 0.35],
+ [0.2, 0.3, 0.35, 0.15],
+ [0.05, 0.05, 0.75, 0.15],
+ [0.15, 0.1, 0.05, 0.7],
+ [0.35, 0.15, 0.15, 0.35],
+ [0.05, 0.35, 0.5, 0.1],
+ [0.8, 0.15, 0.0, 0.05],
+ [0.05, 0.15, 0.1, 0.7],
+ [0.15, 0.25, 0.05, 0.55],
+ [0.45, 0.1, 0.35, 0.1],
+ [0.2, 0.45, 0.0, 0.35],
+ [0.35, 0.25, 0.35, 0.05],
+ [0.1, 0.25, 0.5, 0.15],
+ [0.2, 0.45, 0.05, 0.3],
+ [0.4, 0.0, 0.2, 0.4],
+ [0.1, 0.35, 0.05, 0.5],
+ [0.6, 0.15, 0.05, 0.2],
+ [0.3, 0.45, 0.1, 0.15],
+ [0.05, 0.2, 0.2, 0.55],
+ [0.15, 0.05, 0.2, 0.6],
+ [0.1, 0.35, 0.5, 0.05],
+ [0.15, 0.5, 0.0, 0.35],
+ [0.1, 0.2, 0.65, 0.05],
+ [0.15, 0.1, 0.6, 0.15],
+ [0.1, 0.05, 0.3, 0.55],
+ [0.0, 0.45, 0.05, 0.5],
+ [0.1, 0.55, 0.25, 0.1],
+ [0.45, 0.35, 0.05, 0.15],
+ [0.3, 0.4, 0.3, 0.0],
+ [0.05, 0.1, 0.05, 0.8],
+ [0.5, 0.4, 0.05, 0.05],
+ [0.3, 0.1, 0.2, 0.4],
+ [0.3, 0.3, 0.3, 0.1],
+ [0.1, 0.3, 0.4, 0.2],
+ [0.3, 0.3, 0.25, 0.15],
+ [0.25, 0.0, 0.4, 0.35],
+ [0.3, 0.05, 0.5, 0.15],
+ [0.35, 0.25, 0.2, 0.2],
+ [0.2, 0.0, 0.1, 0.7],
+ [0.05, 0.55, 0.35, 0.05],
+ [0.4, 0.15, 0.35, 0.1],
+ [0.1, 0.1, 0.4, 0.4],
+ [0.6, 0.25, 0.15, 0.0]]
+
+GA Iteration no:  0
+Calculating fitness
+
+
+  Min -264.0449078574936
+  Max -2.588243688574853
+  Avg -112.66135119577771
+  Std 67.6234336794293
+
+Completed generation in time  0.2655935287475586
+
+GA Iteration no:  1
+Calculating fitness
+
+
+  Min -264.0449078574936
+  Max -2.588243688574853
+  Avg -82.37168783928207
+  Std 63.77914148099728
+
+Completed generation in time  0.23437976837158203
+
+GA Iteration no:  2
+Calculating fitness
+
+
+  Min -264.0449078574936
+  Max -2.588243688574853
+  Avg -65.5816842345459
+  Std 56.126972858349546
+
+Completed generation in time  0.27319812774658203
+
+GA Iteration no:  3
+Calculating fitness
+
+
+  Min -264.0449078574936
+  Max -2.588243688574853
+  Avg -49.116837225609885
+  Std 55.5604063548486
+
+Completed generation in time  0.2548716068267822
+
+GA Iteration no:  4
+Calculating fitness
+
+
+  Min -211.20883180412326
+  Max -2.588243688574853
+  Avg -33.654866265624584
+  Std 41.77873870357698
+
+Completed generation in time  0.2638278007507324
+
+GA Iteration no:  5
+Calculating fitness
+
+
+  Min -211.20883180412326
+  Max -2.588243688574853
+  Avg -29.53378453503128
+  Std 38.78298165667098
+
+Completed generation in time  0.26685023307800293
+
+GA Iteration no:  6
+Calculating fitness
+
+
+  Min -158.44776353418175
+  Max -2.588243688574853
+  Avg -24.933863302349067
+  Std 34.19492356244825
+
+Completed generation in time  0.2594339847564697
+
+GA Iteration no:  7
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -22.321302663960566
+  Std 29.575372478493595
+
+Completed generation in time  0.2499845027923584
+
+GA Iteration no:  8
+Calculating fitness
+
+
+  Min -158.41131840612513
+  Max -2.588243688574853
+  Avg -27.42210038354823
+  Std 33.50357588215821
+
+Completed generation in time  0.28122925758361816
+
+GA Iteration no:  9
+Calculating fitness
+
+
+  Min -158.41131840612513
+  Max -2.588243688574853
+  Avg -26.994327383229482
+  Std 36.61906903548528
+
+Completed generation in time  0.28122997283935547
+
+GA Iteration no:  10
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -27.998371302756354
+  Std 35.068852939883605
+
+Completed generation in time  0.30265116691589355
+
+GA Iteration no:  11
+Calculating fitness
+
+
+  Min -158.41131840612513
+  Max -2.588243688574853
+  Avg -25.435214735423934
+  Std 35.033656171871435
+
+Completed generation in time  0.2538769245147705
+
+GA Iteration no:  12
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -27.422617566010764
+  Std 32.662118716058515
+
+Completed generation in time  0.3317887783050537
+
+GA Iteration no:  13
+Calculating fitness
+
+
+  Min -158.44776353418175
+  Max -2.588243688574853
+  Avg -23.97853110151756
+  Std 35.66152832457212
+
+Completed generation in time  0.26059484481811523
+
+GA Iteration no:  14
+Calculating fitness
+
+
+  Min -158.41131840612513
+  Max -2.588243688574853
+  Avg -18.851374133183743
+  Std 31.45715849235602
+
+Completed generation in time  0.2812075614929199
+
+GA Iteration no:  15
+Calculating fitness
+
+
+  Min -158.44776353418175
+  Max -2.588243688574853
+  Avg -18.2973039965049
+  Std 30.4354810175956
+
+Completed generation in time  0.2812333106994629
+
+GA Iteration no:  16
+Calculating fitness
+
+
+  Min -158.41131840612513
+  Max -2.588243688574853
+  Avg -24.93386291391148
+  Std 34.193798126951755
+
+Completed generation in time  0.2656264305114746
+
+GA Iteration no:  17
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -20.283978312968188
+  Std 28.178410689189437
+
+Completed generation in time  0.2905700206756592
+
+GA Iteration no:  18
+Calculating fitness
+
+
+  Min -158.41131840612513
+  Max -2.588243688574853
+  Avg -19.30337976801929
+  Std 29.808184464627903
+
+Completed generation in time  0.24985647201538086
+
+GA Iteration no:  19
+Calculating fitness
+
+
+  Min -158.41131840612513
+  Max -2.588243688574853
+  Avg -23.927939545916846
+  Std 34.09585546567854
+
+Completed generation in time  0.2598540782928467
+
+GA Iteration no:  20
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -19.831608287627382
+  Std 29.931116367537378
+
+Completed generation in time  0.25585508346557617
+
+GA Iteration no:  21
+Calculating fitness
+
+
+  Min -158.41131840612513
+  Max -2.588243688574853
+  Avg -21.919371669150124
+  Std 33.81643519930513
+
+Completed generation in time  0.2656266689300537
+
+GA Iteration no:  22
+Calculating fitness
+
+
+  Min -105.6190903692272
+  Max -2.588243688574853
+  Avg -15.73366667535969
+  Std 25.517115518962857
+
+Completed generation in time  0.24996304512023926
+
+GA Iteration no:  23
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -16.74031849670259
+  Std 25.968988565085038
+
+Completed generation in time  0.2499828338623047
+
+GA Iteration no:  24
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -19.30316882479586
+  Std 28.858478567975368
+
+Completed generation in time  0.32810378074645996
+
+GA Iteration no:  25
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -16.262470528696483
+  Std 26.795909997091663
+
+Completed generation in time  0.2812502384185791
+
+GA Iteration no:  26
+Calculating fitness
+
+
+  Min -158.41131840612513
+  Max -2.588243688574853
+  Avg -17.34306457875152
+  Std 31.8779883598367
+
+Completed generation in time  0.23433995246887207
+
+GA Iteration no:  27
+Calculating fitness
+
+
+  Min -158.44776353418175
+  Max -2.588243688574853
+  Avg -21.918336382013628
+  Std 35.423356052543745
+
+Completed generation in time  0.2812504768371582
+
+GA Iteration no:  28
+Calculating fitness
+
+
+  Min -158.44776353418175
+  Max -2.588243688574853
+  Avg -18.825896251293756
+  Std 30.573052699783748
+
+Completed generation in time  0.2343597412109375
+
+GA Iteration no:  29
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -20.861916754433906
+  Std 31.071398038426594
+
+Completed generation in time  0.2656071186065674
+
+GA Iteration no:  30
+Calculating fitness
+
+
+  Min -211.20883180412326
+  Max -2.588243688574853
+  Avg -19.907482551531437
+  Std 36.591252537196105
+
+Completed generation in time  0.2499845027923584
+
+GA Iteration no:  31
+Calculating fitness
+
+
+  Min -158.41131840612513
+  Max -2.588243688574853
+  Avg -17.31774008336804
+  Std 30.093138367528592
+
+Completed generation in time  0.24998092651367188
+
+GA Iteration no:  32
+Calculating fitness
+
+
+  Min -158.41131840612513
+  Max -2.588243688574853
+  Avg -12.240809624805195
+  Std 25.794634742009354
+
+Completed generation in time  0.2870211601257324
+
+GA Iteration no:  33
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -14.27755929739341
+  Std 26.89067286873274
+
+Completed generation in time  0.24082326889038086
+
+GA Iteration no:  34
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -13.749119179237383
+  Std 25.575406542406554
+
+Completed generation in time  0.2608516216278076
+
+GA Iteration no:  35
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -19.279875259188433
+  Std 27.894475833332585
+
+Completed generation in time  0.2568342685699463
+
+GA Iteration no:  36
+Calculating fitness
+
+
+  Min -158.44776353418175
+  Max -2.588243688574853
+  Avg -22.87403270646343
+  Std 34.0052792722054
+
+Completed generation in time  0.25197625160217285
+
+GA Iteration no:  37
+Calculating fitness
+
+
+  Min -158.44776353418175
+  Max -2.588243688574853
+  Avg -20.38558324984117
+  Std 33.534793237482106
+
+Completed generation in time  0.2500033378601074
+
+GA Iteration no:  38
+Calculating fitness
+
+
+  Min -158.41131840612513
+  Max -2.588243688574853
+  Avg -22.39685426366426
+  Std 33.08075705124218
+
+Completed generation in time  0.26558709144592285
+
+GA Iteration no:  39
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -18.80129982082087
+  Std 28.7086852168162
+
+Completed generation in time  0.2656078338623047
+
+GA Iteration no:  40
+Calculating fitness
+
+
+  Min -158.44776353418175
+  Max -2.588243688574853
+  Avg -17.77011016948415
+  Std 28.391212849895425
+
+Completed generation in time  0.2575216293334961
+
+GA Iteration no:  41
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -17.24218782833983
+  Std 26.1747724478315
+
+Completed generation in time  0.2499828338623047
+
+GA Iteration no:  42
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -18.749980200309505
+  Std 26.728941724368823
+
+Completed generation in time  0.2656071186065674
+
+GA Iteration no:  43
+Calculating fitness
+
+
+  Min -158.41131840612513
+  Max -2.588243688574853
+  Avg -18.77603249371672
+  Std 28.72253666887095
+
+Completed generation in time  0.2500028610229492
+
+GA Iteration no:  44
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -15.256911551207049
+  Std 26.342981557638527
+
+Completed generation in time  0.26558732986450195
+
+GA Iteration no:  45
+Calculating fitness
+
+
+  Min -105.6190903692272
+  Max -2.588243688574853
+  Avg -15.206683791562362
+  Std 24.16361693419229
+
+Completed generation in time  0.23437929153442383
+
+GA Iteration no:  46
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -15.182662755593478
+  Std 23.000035369934587
+
+Completed generation in time  0.3281381130218506
+
+GA Iteration no:  47
+Calculating fitness
+
+
+  Min -158.44776353418175
+  Max -2.588243688574853
+  Avg -16.79075660502149
+  Std 28.982499230053417
+
+Completed generation in time  0.24994754791259766
+
+GA Iteration no:  48
+Calculating fitness
+
+
+  Min -158.44776353418175
+  Max -2.588243688574853
+  Avg -17.268969291195113
+  Std 28.212600704342297
+
+Completed generation in time  0.26558852195739746
+
+GA Iteration no:  49
+Calculating fitness
+
+
+  Min -105.6190903692272
+  Max -2.588243688574853
+  Avg -19.731517158843268
+  Std 26.013531230106018
+
+Completed generation in time  0.23437118530273438
+
+GA Iteration no:  50
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -16.263198654382442
+  Std 26.7969046022577
+
+Completed generation in time  0.2500185966491699
+
+GA Iteration no:  51
+Calculating fitness
+
+
+  Min -158.44776353418175
+  Max -2.588243688574853
+  Avg -16.28800668340321
+  Std 29.74081724343927
+
+Completed generation in time  0.28815793991088867
+
+GA Iteration no:  52
+Calculating fitness
+
+
+  Min -158.44776353418175
+  Max -2.588243688574853
+  Avg -20.812992514979193
+  Std 30.195777236670345
+
+Completed generation in time  0.2446582317352295
+
+GA Iteration no:  53
+Calculating fitness
+
+
+  Min -158.44776353418175
+  Max -2.588243688574853
+  Avg -18.850856683834273
+  Std 32.32985559125439
+
+Completed generation in time  0.24996471405029297
+
+GA Iteration no:  54
+Calculating fitness
+
+
+  Min -158.44776353418175
+  Max -2.588243688574853
+  Avg -13.295868297028655
+  Std 28.385685119964094
+
+Completed generation in time  0.24998164176940918
+
+GA Iteration no:  55
+Calculating fitness
+
+
+  Min -211.2452790600351
+  Max -2.588243688574853
+  Avg -15.308189139029844
+  Std 32.04744352090654
+
+Completed generation in time  0.2843048572540283
+
+GA Iteration no:  56
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -12.694060895451498
+  Std 22.688121797649504
+
+Completed generation in time  0.29384779930114746
+
+GA Iteration no:  57
+Calculating fitness
+
+
+  Min -105.6190903692272
+  Max -2.588243688574853
+  Avg -14.70408633423916
+  Std 23.896680743354167
+
+Completed generation in time  0.26584839820861816
+
+GA Iteration no:  58
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -15.759873399035493
+  Std 26.576145584784445
+
+Completed generation in time  0.2918124198913574
+
+GA Iteration no:  59
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -18.24847493151522
+  Std 26.556442076911175
+
+Completed generation in time  0.2671201229095459
+
+GA Iteration no:  60
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -14.70299447337245
+  Std 23.895741723685475
+
+Completed generation in time  0.2500030994415283
+
+GA Iteration no:  61
+Calculating fitness
+
+
+  Min -105.6190903692272
+  Max -2.588243688574853
+  Avg -12.164893306934006
+  Std 21.07339874685104
+
+Completed generation in time  0.28120923042297363
+
+GA Iteration no:  62
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -14.704814787587365
+  Std 23.898648648730692
+
+Completed generation in time  0.2656283378601074
+
+GA Iteration no:  63
+Calculating fitness
+
+
+  Min -158.44776353418175
+  Max -2.588243688574853
+  Avg -11.712734940916464
+  Std 24.380855451256007
+
+Completed generation in time  0.24996423721313477
+
+GA Iteration no:  64
+Calculating fitness
+
+
+  Min -105.6190903692272
+  Max -2.588243688574853
+  Avg -12.166349558305944
+  Std 21.07621112223155
+
+Completed generation in time  0.2812480926513672
+
+GA Iteration no:  65
+Calculating fitness
+
+
+  Min -105.6190903692272
+  Max -2.588243688574853
+  Avg -14.729199886399222
+  Std 25.021488545299803
+
+Completed generation in time  0.24996566772460938
+
+GA Iteration no:  66
+Calculating fitness
+
+
+  Min -158.41131840612513
+  Max -2.588243688574853
+  Avg -18.3741014989063
+  Std 33.03002932346574
+
+Completed generation in time  0.2812826633453369
+
+GA Iteration no:  67
+Calculating fitness
+
+
+  Min -158.44776353418175
+  Max -2.588243688574853
+  Avg -16.866462962655998
+  Std 31.701045630063657
+
+Completed generation in time  0.2499547004699707
+
+GA Iteration no:  68
+Calculating fitness
+
+
+  Min -158.44776353418175
+  Max -2.588243688574853
+  Avg -10.682790209290667
+  Std 22.494562303480656
+
+Completed generation in time  0.24997901916503906
+
+GA Iteration no:  69
+Calculating fitness
+
+
+  Min -105.6190903692272
+  Max -2.588243688574853
+  Avg -11.688137527456826
+  Std 21.987218890862408
+
+Completed generation in time  0.24998235702514648
+
+GA Iteration no:  70
+Calculating fitness
+
+
+  Min -52.88439570519501
+  Max -2.588243688574853
+  Avg -11.6371822974507
+  Std 19.31382741568468
+
+Completed generation in time  0.28543710708618164
+
+GA Iteration no:  71
+Calculating fitness
+
+
+  Min -105.6190903692272
+  Max -2.588243688574853
+  Avg -12.189278733408122
+  Std 22.34233591745113
+
+Completed generation in time  0.24885797500610352
+
+GA Iteration no:  72
+Calculating fitness
+
+
+  Min -105.6190903692272
+  Max -2.588243688574853
+  Avg -14.200396688386968
+  Std 23.614246756236586
+
+Completed generation in time  0.26586318016052246
+
+GA Iteration no:  73
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -12.167078011654148
+  Std 21.078530053119515
+
+Completed generation in time  0.2538442611694336
+
+GA Iteration no:  74
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -10.682214814786677
+  Std 21.21739680603333
+
+Completed generation in time  0.2510969638824463
+
+GA Iteration no:  75
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -11.711431420726505
+  Std 23.20646376845055
+
+Completed generation in time  0.24998140335083008
+
+GA Iteration no:  76
+Calculating fitness
+
+
+  Min -211.2452790600351
+  Max -2.588243688574853
+  Avg -14.378029685386645
+  Std 35.74550178563661
+
+Completed generation in time  0.2500040531158447
+
+GA Iteration no:  77
+Calculating fitness
+
+
+  Min -158.44776353418175
+  Max -2.588243688574853
+  Avg -14.805174743974089
+  Std 30.959397323446584
+
+Completed generation in time  0.24996399879455566
+
+GA Iteration no:  78
+Calculating fitness
+
+
+  Min -158.41131840612513
+  Max -2.588243688574853
+  Avg -13.72348844461475
+  Std 25.58691234257463
+
+Completed generation in time  0.2656068801879883
+
+GA Iteration no:  79
+Calculating fitness
+
+
+  Min -158.44776353418175
+  Max -2.588243688574853
+  Avg -17.31867927382807
+  Std 31.007138519255264
+
+Completed generation in time  0.2499828338623047
+
+GA Iteration no:  80
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -15.207048182067606
+  Std 24.164980598640522
+
+Completed generation in time  0.249983549118042
+
+GA Iteration no:  81
+Calculating fitness
+
+
+  Min -158.44776353418175
+  Max -2.588243688574853
+  Avg -14.301791337361049
+  Std 28.87537366197208
+
+Completed generation in time  0.2656261920928955
+
+GA Iteration no:  82
+Calculating fitness
+
+
+  Min -105.6190903692272
+  Max -2.588243688574853
+  Avg -10.658557186336266
+  Std 19.875501657472046
+
+Completed generation in time  0.2643768787384033
+
+GA Iteration no:  83
+Calculating fitness
+
+
+  Min -105.6190903692272
+  Max -2.588243688574853
+  Avg -13.673049741746652
+  Std 22.107584610683052
+
+Completed generation in time  0.2430419921875
+
+GA Iteration no:  84
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -12.240234618738759
+  Std 24.690373536686483
+
+Completed generation in time  0.25000429153442383
+
+GA Iteration no:  85
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -16.26283459153944
+  Std 26.796407306762422
+
+Completed generation in time  0.26558780670166016
+
+GA Iteration no:  86
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -18.75252831254812
+  Std 26.73147441687663
+
+Completed generation in time  0.27184200286865234
+
+GA Iteration no:  87
+Calculating fitness
+
+
+  Min -158.41131840612513
+  Max -2.588243688574853
+  Avg -23.32707225701116
+  Std 30.66332253673012
+
+Completed generation in time  0.25449156761169434
+
+GA Iteration no:  88
+Calculating fitness
+
+
+  Min -105.6190903692272
+  Max -2.588243688574853
+  Avg -18.222632598344656
+  Std 25.500400556144363
+
+Completed generation in time  0.2343597412109375
+
+GA Iteration no:  89
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -19.32937489314716
+  Std 29.79456433562091
+
+Completed generation in time  0.2812490463256836
+
+GA Iteration no:  90
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -18.77509375246958
+  Std 27.735476391152908
+
+Completed generation in time  0.26558876037597656
+
+GA Iteration no:  91
+Calculating fitness
+
+
+  Min -158.44776353418175
+  Max -2.588243688574853
+  Avg -15.784469501846113
+  Std 28.58191022705518
+
+Completed generation in time  0.2812516689300537
+
+GA Iteration no:  92
+Calculating fitness
+
+
+  Min -52.88439570519501
+  Max -2.588243688574853
+  Avg -12.644197526312052
+  Std 20.111909306552025
+
+Completed generation in time  0.28122925758361816
+
+GA Iteration no:  93
+Calculating fitness
+
+
+  Min -105.6190903692272
+  Max -2.588243688574853
+  Avg -7.640424002496072
+  Std 16.817318961035372
+
+Completed generation in time  0.24996328353881836
+
+GA Iteration no:  94
+Calculating fitness
+
+
+  Min -105.6190903692272
+  Max -2.588243688574853
+  Avg -13.673413804589668
+  Std 22.10823002232358
+
+Completed generation in time  0.26076412200927734
+
+GA Iteration no:  95
+Calculating fitness
+
+
+  Min -52.88439570519501
+  Max -2.588243688574853
+  Avg -9.62715653100079
+  Std 17.445797557282827
+
+Completed generation in time  0.2656064033508301
+
+GA Iteration no:  96
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -14.201125141735183
+  Std 23.616253732946962
+
+Completed generation in time  0.24996328353881836
+
+GA Iteration no:  97
+Calculating fitness
+
+
+  Min -105.6190903692272
+  Max -2.588243688574853
+  Avg -16.714112100689043
+  Std 24.885937959920646
+
+Completed generation in time  0.2656276226043701
+
+GA Iteration no:  98
+Calculating fitness
+
+
+  Min -105.6190903692272
+  Max -2.588243688574853
+  Avg -13.171544472952387
+  Std 21.782134253777816
+
+Completed generation in time  0.2499685287475586
+
+GA Iteration no:  99
+Calculating fitness
+
+
+  Min -105.65552941975083
+  Max -2.588243688574853
+  Avg -13.171908863457602
+  Std 21.783681043633994
+
+Completed generation in time  0.2656214237213135
+Optimized Average Result
+([0.25, 0.25, 0.2, 0.3], -2.588243688574853)
+
+Process finished with exit code 0

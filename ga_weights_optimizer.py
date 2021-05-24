@@ -119,18 +119,18 @@ class WeightsOptimizer:
         for gen in range(generation, self.ngen):
             start_time = time.time()
             print('\nGA Iteration no: ', gen)
-            print("\nPopulation:")
-            pprint(population)
+            # print("\nPopulation:")
+            # pprint(population)
             c = Counter(map(tuple, population))
             if list(c.items())[0][1] == len(population):
                 print("Optimization converged. Exiting")
                 break
             offspring = toolbox.select(population, len(population))
-            print("\nAfter Selection:")
-            pprint(offspring)
-            print("\nAfter Applying crossover and mutation:")
+            # print("\nAfter Selection:")
+            # pprint(offspring)
+            # print("\nAfter Applying crossover and mutation:")
             offspring = algorithms.varAnd(offspring, toolbox, cxpb=self.cxpb, mutpb=self.mutpb)
-            pprint(offspring)
+            # pprint(offspring)
 
             print("Calculating fitness")
             fits = list(map(toolbox.evaluate, offspring))

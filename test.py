@@ -1,8 +1,6 @@
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-# import seaborn as sns
-from collections import Counter
+
 from ga_weights_optimizer import WeightsOptimizer
 from sklearn.linear_model import LinearRegression, LassoCV, Ridge, LassoLarsCV,ElasticNetCV
 from sklearn.model_selection import cross_val_score
@@ -185,8 +183,13 @@ class CreateModels:
 if __name__ == "__main__":
     n=4
     model = CreateModels()
+    simple_avg = model.objective_function([0.25, 0.25, 0.25, 0.25])
+    print("Simple Average Result :", [0.25, 0.25, 0.25, 0.25], simple_avg)
+
     wo = WeightsOptimizer(n, model)
     optimized_weights = wo.ga()
+
+    print("Optimized Average Result")
     print(optimized_weights)
 
 
